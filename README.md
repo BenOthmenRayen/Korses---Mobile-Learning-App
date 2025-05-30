@@ -38,6 +38,6 @@ Korses uses Firebase Realtime Database to store:
   <img src="screenshot/Capture d’écran 2025-05-30 030619.png" width="30%" />
 </p>
 <p float="left">
-  <img src="screenshot/Capture d’écran 2025-05-30 030742.png" width="50%" />
-  <img src="screenshot/Capture d’écran 2025-05-30 030809.png" width="50%" />
+  <img src="screenshot/Capture d’écran 2025-05-30 030742.png" width="30%%" />
+  <img src="screenshot/Capture d’écran 2025-05-30 030809.png" width="30%" />
 </p>
